@@ -1,0 +1,5 @@
+En este módulo verás
+ Creación de nuevas tablas a partir de consultas (DDL: CREATE / SELECT).
+ Consulta de actualización (DML: UPDATE).
+ Consulta de Eliminación (DML: DELETE / TRUNCATE).
+ Consulta de Datos Anexados (DML: INSERT).

@@ -1,0 +1,6 @@
+En este módulo verás
+ Subconsultas
+ Uso del condicional CASE
+ Combinación de consultas (UNION)
+ Consultas relacionadas
+ Otros tipos de JOINS

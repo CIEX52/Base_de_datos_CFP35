@@ -1,0 +1,8 @@
+En este módulo verás
+ Generar backup de una base de datos.
+ Restaurar backups.
+ Funciones integradas de Texto.
+ Funciones integradas de Fecha.
+ Funciones Matemáticas integradas.
+ Funciones de agregado.
+ Agrupamiento de consultas (cláusulas GROUP BY y HAVING).

@@ -1,0 +1,9 @@
+En este módulo verás
+ Introducción a MySQL
+ Conceptos de servidor SQL y motor de base de datos
+ Introducción a bases de datos
+ Crear una base de datos
+ Tablas: campos, tipos de datos y modificadores
+ Agregar, eliminar y quitar columnas de una tabla
+ Renombrar una tabla
+ Insertar registros en una tabla

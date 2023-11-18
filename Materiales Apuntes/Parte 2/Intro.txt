@@ -1,0 +1,11 @@
+En este módulo verás
+ Importación de tablas externas.
+ Alterar la estructura de las tablas importadas.
+ Generar consultas utilizando lenguaje SQL.
+ Cláusulas FROM y WHERE (predicado de una consulta).
+ Ordenamiento de registros (cláusula ORDER BY).
+ Limitar la cantidad de registros resultantes.
+ Operadores de comparación.
+ Operadores lógicos.
+ 
+ 
